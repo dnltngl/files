@@ -1,0 +1,76 @@
+Truffle - is a world-class development
+environment, testing framework and asset
+pipeline for blockchains using the Ethereum
+Virtual Machine (EVM), aiming to make life
+as a developer easier
+
+Ganache is a personal blockchain for rapid Ethereum
+and Filecoin distributed application development.
+Ganache can be used across the entire development
+cycle; enables to develop, deploy, and test dAppsin a
+safe and deterministic environment. - It comes in two flavors: a UI and CLI.- 
+It gives you 10 free accounts with 100 fake ethers each for testing purposes.
+
+Metamask extension makes it easier to
+interact with DApp by making browsers
+act like an Ethereum Wallet.
+
+The Remix Project is a rich toolset
+that can be used for the entire
+journey of contract development by
+users of any knowledge level, and as
+a learning lab for teaching and
+experimenting with Ethereum.
+
+View functions in Solidity are designed
+to retrieve and return data from the
+blockchain without modifying the state
+of the contract.
+
+Pure function is a function that doesn't
+read or modify the variables of the state of
+the contract.
+
+Constants are variables that cannot be modified.
+
+Mapping Is a data structure used to associate values with unique keys. It is
+similar to a hash table or dictionary in other programming
+languages.
+
+Error Handling An error will undo all changes made to the state during a transaction. You can throw an error by calling require, revert or assert.
+Use custom error to save gas
+
+The constructor keyword is used to define a constructor function for
+a smart contract
+
+In Solidity, functions can be called to provide multiple outputs
+(unnamed), named outputs and can call values from another
+function using destructuring assignment
+
+Solidity arrays, like any programming language, store multiple
+elements of the same data type. There are two main types of
+arrays: fixed-size arrays and dynamic arrays.
+
+A user-defined data type that allows you
+to group together different data types
+under a single name. It's similar to a class
+in object-oriented programming
+languages.
+
+Structs can be declared
+outside of a contract
+and imported in
+another contract.
+
+enum Short for enumeration, this is a userdefined 
+data type that consists of a set ofexplicitly 
+named integer constants.
+
+Data Storage 
+
+
+
+
+
+
+
